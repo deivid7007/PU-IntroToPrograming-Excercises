@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSnippetsAndShortcuts", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMax", "GetMax\GetMax.csproj", "{784D70D8-DE9E-40B1-9229-4B65AAB571A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndMehods", "ArraysAndMehods\ArraysAndMehods.csproj", "{2DC83EF6-113E-463D-8316-AC0237DFD53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangingStrings", "ChangingStrings\ChangingStrings.csproj", "{F4CF65DB-0423-4C6E-BEDC-84C1D6FA19BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{784D70D8-DE9E-40B1-9229-4B65AAB571A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784D70D8-DE9E-40B1-9229-4B65AAB571A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784D70D8-DE9E-40B1-9229-4B65AAB571A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC83EF6-113E-463D-8316-AC0237DFD53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC83EF6-113E-463D-8316-AC0237DFD53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC83EF6-113E-463D-8316-AC0237DFD53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC83EF6-113E-463D-8316-AC0237DFD53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CF65DB-0423-4C6E-BEDC-84C1D6FA19BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CF65DB-0423-4C6E-BEDC-84C1D6FA19BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CF65DB-0423-4C6E-BEDC-84C1D6FA19BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CF65DB-0423-4C6E-BEDC-84C1D6FA19BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
